@@ -7,5 +7,6 @@ to keep my CtrlP match function.
 Installation
 ------------
 Have CtrlP installed, build Matcher and set `g:cpbm_path_to_matcher` to the full path of the Matcher binary,
-and `let g:ctrlp_match_func = { 'match': 'BurkeMatcher' }`
+and `let g:ctrlp_match_func = { 'match': 'BurkeMatcher' }`.  See [my .vim](https://github.com/kbarrette/dotvim)
+for further details.
 
